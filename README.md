@@ -4,7 +4,7 @@ The main script `task.py` loops through all of the source data and outputs the m
 
 `get_monthly_qualifying_averages.py` is a utility function that returns the year/month combinations where average settlement point > $100/MWh
 
-`/data` contains the raw Excel files from the ERCOT website. Note: the zip file containing this code only has `rpt.00013061.0000000000000000.RTMLZHBSPP_2021.xlsx` to save on space, but the code initially ran against all Excel files from the ERCOT website containing historical data from 2010-2022.
+`/data` contains the raw Excel files from the ERCOT website.
 
 # How to run the script
 
