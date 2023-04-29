@@ -1,5 +1,7 @@
 # Overview
 
+This coding challenge was to use Python to parse through a list of Excel files and find the months where the average monthly price of power was above $100/MWh.
+
 The main script `task.py` loops through all of the source data and outputs the months where the average monthly price of power was above $100/MWh.
 
 `get_monthly_qualifying_averages.py` is a utility function that returns the year/month combinations where average settlement point > $100/MWh
