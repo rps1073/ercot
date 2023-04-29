@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 setup.md
-data/
+*.xlsx
