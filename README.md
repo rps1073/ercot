@@ -8,7 +8,7 @@ The main script `task.py` loops through all of the source data and outputs the m
 
 # How to run the script
 
-Run `python3 task.py` to start the primary script that reads the data and outputs the qualifying monthly averages
+Run `python task.py` to start the primary script that reads the data and outputs the qualifying monthly averages
 
 # Assumptions
 - The source data from the ERCOT website has already been downloaded from their website and the underlying Excel files are available in some form of local storage (ex. `/data` folder) for easier access
